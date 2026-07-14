@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-💻 Actively working on DSA, backend development, and core CS fundamentals<br><br>🧠 Strong interest in problem-solving, low-level design, and scalable systems<br><br>⚙️ Comfortable with Java for DSA and backend logic<br><br>📦 Experience building real-world projects, not just academic ones<br><br>
+💻 Backend development, and core CS fundamentals<br><br>🧠 Strong interest in problem-solving, low-level design, and scalable systems<br><br>⚙️ Comfortable with Java for DSA and backend logic<br><br>📦 Experience building real-world projects, not just academic ones<br><br>
 
 
 ## 🌐 Socials:
