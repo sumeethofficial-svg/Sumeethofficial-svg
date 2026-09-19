@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="download(2).gif" width="100%" />
+  <img src="download2.gif" width="55%" />
   <br />
   <br />
   <H4>Visitor Count</H4>
